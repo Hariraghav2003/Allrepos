@@ -1,0 +1,3 @@
+[submodule "Laravel"]
+	path = Laravel
+	url = https://github.com/Hariraghav2003/Laravel.git
