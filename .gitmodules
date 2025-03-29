@@ -1,3 +1,6 @@
 [submodule "Laravel"]
 	path = Laravel
 	url = https://github.com/Hariraghav2003/Laravel.git
+[submodule "TMS-Docker"]
+	path = TMS-Docker
+	url = https://github.com/Hariraghav2003/TMS-Docker.git
